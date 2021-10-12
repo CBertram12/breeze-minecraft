@@ -16,7 +16,7 @@ if exist current_user (
 		git commit -m "!name! started the server"
 		git push origin master
 		java -Xmx1024M -Xms1024M -jar .\server.jar nogui
-		echo > current_user
+		copy NUL current_user
 		git add --all
 		git commit -m "!name! updated the server"
 		git push origin master
