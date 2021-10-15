@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-10-15 13:18:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-10-14 22:46:55 -0400"
@@ -309,6 +315,7 @@
     "criteria": {
       "cooked_porkchop": "2021-10-14 22:18:27 -0400",
       "cooked_mutton": "2021-10-14 23:00:55 -0400",
+      "bread": "2021-10-15 13:16:34 -0400",
       "cooked_chicken": "2021-10-14 22:07:29 -0400"
     },
     "done": false
@@ -602,15 +609,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2021-10-15 10:20:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-10-15 09:26:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2021-10-15 10:20:58 -0400"
     },
     "done": true
   },
@@ -1133,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-10-15 13:04:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-10-14 22:57:01 -0400"
@@ -1643,15 +1656,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2021-10-15 10:20:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-15 09:33:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2021-10-15 10:20:58 -0400"
     },
     "done": true
   },
