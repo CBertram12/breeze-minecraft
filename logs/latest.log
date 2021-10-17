@@ -1,47 +1,76 @@
-[12:55:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:55:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:55:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:55:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:55:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:55:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:55:13] [main/INFO]: Reloading ResourceManager: Default
-[12:55:13] [Worker-Main-11/INFO]: Loaded 7 recipes
-[12:55:14] [Worker-Main-11/INFO]: Loaded 1137 advancements
-[12:55:16] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:55:16] [Server thread/INFO]: Loading properties
-[12:55:16] [Server thread/INFO]: Default game type: SURVIVAL
-[12:55:16] [Server thread/INFO]: Generating keypair
-[12:55:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:55:16] [Server thread/INFO]: Using default channel type
-[12:55:16] [Server thread/INFO]: Preparing level "world"
-[12:55:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:55:17] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:55:17] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:55:19] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
-[12:55:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:55:21] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:55:22] [Worker-Main-14/INFO]: Preparing spawn area: 35%
-[12:55:22] [Worker-Main-11/INFO]: Preparing spawn area: 76%
-[12:55:23] [Server thread/INFO]: Time elapsed: 6178 ms
-[12:55:23] [Server thread/INFO]: Done (6.348s)! For help, type "help"
-[12:55:23] [Server thread/INFO]: cambo9111[/127.0.0.1:50282] logged in with entity id 74 at (-73.58538768190989, 71.0, 406.63596453008813)
-[12:55:23] [Server thread/INFO]: cambo9111 joined the game
-[13:00:05] [Server thread/INFO]: [cambo9111: Stopping the server]
-[13:00:05] [Server thread/INFO]: Stopping server
-[13:00:05] [Server thread/INFO]: Saving players
-[13:00:05] [Server thread/INFO]: cambo9111 lost connection: Internal Exception: java.lang.StackOverflowError
-[13:00:05] [Server thread/INFO]: cambo9111 left the game
-[13:00:05] [Server thread/INFO]: Saving worlds
-[13:00:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:00:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:00:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:44:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:44:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:44:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:44:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:44:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:44:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:44:45] [main/INFO]: Reloading ResourceManager: Default
+[14:44:47] [Worker-Main-9/INFO]: Loaded 7 recipes
+[14:44:47] [Worker-Main-9/INFO]: Loaded 1137 advancements
+[14:44:49] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[14:44:49] [Server thread/INFO]: Loading properties
+[14:44:49] [Server thread/INFO]: Default game type: SURVIVAL
+[14:44:49] [Server thread/INFO]: Generating keypair
+[14:44:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:44:49] [Server thread/INFO]: Using default channel type
+[14:44:50] [Server thread/INFO]: Preparing level "world"
+[14:44:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:50] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:44:50] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:44:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:44:51] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:44:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:44:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:45:01] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[14:45:01] [Worker-Main-13/INFO]: Preparing spawn area: 68%
+[14:45:04] [Server thread/INFO]: Time elapsed: 13789 ms
+[14:45:04] [Server thread/INFO]: Done (13.957s)! For help, type "help"
+[14:45:36] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
+[14:45:36] [Server thread/INFO]: cambo9111[/127.0.0.1:58581] logged in with entity id 184 at (-96.37673965186879, 68.0, 416.34583776260394)
+[14:45:36] [Server thread/INFO]: cambo9111 joined the game
+[14:46:29] [User Authenticator #2/INFO]: UUID of player KPR111 is 503ff402-af47-415d-90a9-d12abe159d13
+[14:46:29] [Server thread/INFO]: KPR111[/128.61.80.232:64661] logged in with entity id 588 at (-73.65460391792766, 71.0, 408.7563145989704)
+[14:46:29] [Server thread/INFO]: KPR111 joined the game
+[14:48:07] [Server thread/INFO]: KPR111 has made the advancement [Acquire Hardware]
+[14:48:21] [Server thread/INFO]: KPR111 has made the advancement [Isn't It Iron Pick]
+[14:50:44] [Server thread/INFO]: KPR111 has made the advancement [A Seedy Place]
+[14:51:30] [Server thread/INFO]: KPR111 has made the advancement [Monster Hunter]
+[14:53:44] [Server thread/INFO]: KPR111 has made the advancement [Stone Age]
+[15:15:48] [Server thread/INFO]: KPR111 lost connection: Disconnected
+[15:15:48] [Server thread/INFO]: KPR111 left the game
+[15:16:03] [User Authenticator #3/INFO]: UUID of player KPR111 is 503ff402-af47-415d-90a9-d12abe159d13
+[15:16:03] [Server thread/INFO]: KPR111[/128.61.80.232:52126] logged in with entity id 10269 at (272.33075796909964, 84.0, 370.41029551894076)
+[15:16:03] [Server thread/INFO]: KPR111 joined the game
+[15:23:00] [Server thread/INFO]: KPR111 has made the advancement [The Parrots and the Bats]
+[15:28:45] [Server thread/INFO]: KPR111 lost connection: Disconnected
+[15:28:45] [Server thread/INFO]: KPR111 left the game
+[16:14:11] [Server thread/INFO]: [cambo9111: Saved the game]
+[16:14:12] [Server thread/INFO]: [cambo9111: Stopping the server]
+[16:14:12] [Server thread/INFO]: Stopping server
+[16:14:12] [Server thread/INFO]: Saving players
+[16:14:12] [Server thread/INFO]: cambo9111 lost connection: Disconnected
+[16:14:12] [Server thread/INFO]: cambo9111 left the game
+[16:14:12] [Server thread/INFO]: Saving worlds
+[16:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
