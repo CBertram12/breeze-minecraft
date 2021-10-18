@@ -358,6 +358,7 @@
       "cooked_porkchop": "2021-10-14 22:18:27 -0400",
       "cooked_mutton": "2021-10-14 23:00:55 -0400",
       "cooked_beef": "2021-10-17 15:06:54 -0400",
+      "beef": "2021-10-18 10:12:00 -0400",
       "bread": "2021-10-15 13:16:34 -0400",
       "cooked_chicken": "2021-10-14 22:07:29 -0400"
     },
@@ -903,6 +904,9 @@
       "minecraft:skeleton": "2021-10-14 21:59:11 -0400",
       "minecraft:spider": "2021-10-14 21:56:29 -0400",
       "minecraft:creeper": "2021-10-14 21:59:36 -0400",
+      "minecraft:witch": "2021-10-18 09:23:55 -0400",
+      "minecraft:cave_spider": "2021-10-18 09:45:48 -0400",
+      "minecraft:silverfish": "2021-10-18 10:06:22 -0400",
       "minecraft:zombie": "2021-10-14 21:57:07 -0400"
     },
     "done": false
@@ -1288,6 +1292,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-10-15 13:04:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2021-10-18 09:20:15 -0400"
     },
     "done": true
   },
@@ -1847,6 +1857,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-10-16 00:30:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2021-10-18 09:20:15 -0400"
     },
     "done": true
   },
