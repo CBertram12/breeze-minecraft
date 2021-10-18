@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-10-18 16:35:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-10-14 22:06:54 -0400"
@@ -359,6 +365,7 @@
       "cooked_mutton": "2021-10-14 23:00:55 -0400",
       "cooked_beef": "2021-10-17 15:06:54 -0400",
       "beef": "2021-10-18 10:12:00 -0400",
+      "porkchop": "2021-10-18 16:33:48 -0400",
       "bread": "2021-10-15 13:16:34 -0400",
       "cooked_chicken": "2021-10-14 22:07:29 -0400"
     },
@@ -493,6 +500,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-10-15 09:53:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2021-10-18 16:35:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-10-18 16:35:30 -0400"
     },
     "done": true
   },
@@ -842,6 +861,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-10-14 22:31:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-10-18 16:35:30 -0400"
     },
     "done": true
   },
@@ -1547,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-10-18 16:35:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-10-14 22:38:55 -0400"
@@ -1617,7 +1648,9 @@
     "criteria": {
       "minecraft:forest": "2021-10-14 21:57:20 -0400",
       "minecraft:mountains": "2021-10-14 22:43:05 -0400",
+      "minecraft:taiga": "2021-10-18 16:47:10 -0400",
       "minecraft:birch_forest": "2021-10-14 22:16:34 -0400",
+      "minecraft:dark_forest": "2021-10-18 16:49:37 -0400",
       "minecraft:river": "2021-10-14 22:16:31 -0400",
       "minecraft:birch_forest_hills": "2021-10-14 22:17:09 -0400",
       "minecraft:wooded_mountains": "2021-10-17 15:52:38 -0400",
@@ -1725,6 +1758,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2021-10-17 15:12:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-10-18 16:35:30 -0400"
     },
     "done": true
   },
