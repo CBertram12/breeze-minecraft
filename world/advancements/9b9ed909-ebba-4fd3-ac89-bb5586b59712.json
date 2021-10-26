@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-10-26 09:34:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-10-24 12:42:10 -0400"
@@ -523,13 +529,15 @@
       "minecraft:magma_cube": "2021-10-22 23:20:06 -0400",
       "minecraft:spider": "2021-10-14 21:56:29 -0400",
       "minecraft:creeper": "2021-10-14 21:59:36 -0400",
+      "minecraft:phantom": "2021-10-26 09:16:36 -0400",
       "minecraft:witch": "2021-10-18 09:23:55 -0400",
       "minecraft:wither_skeleton": "2021-10-22 23:26:19 -0400",
       "minecraft:cave_spider": "2021-10-18 09:45:48 -0400",
       "minecraft:piglin": "2021-10-22 22:24:46 -0400",
       "minecraft:silverfish": "2021-10-18 10:06:22 -0400",
       "minecraft:enderman": "2021-10-22 22:23:07 -0400",
-      "minecraft:zombie": "2021-10-14 21:57:07 -0400"
+      "minecraft:zombie": "2021-10-14 21:57:07 -0400",
+      "minecraft:zombie_villager": "2021-10-26 09:17:30 -0400"
     },
     "done": false
   },
@@ -815,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-10-26 09:34:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-10-15 10:46:15 -0400"
@@ -878,6 +892,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-10-14 22:25:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-10-26 09:34:06 -0400"
     },
     "done": true
   },
@@ -1036,6 +1056,7 @@
       "minecraft:forest": "2021-10-14 21:57:20 -0400",
       "minecraft:mountains": "2021-10-14 22:43:05 -0400",
       "minecraft:taiga": "2021-10-18 16:47:10 -0400",
+      "minecraft:taiga_hills": "2021-10-26 11:22:24 -0400",
       "minecraft:birch_forest": "2021-10-14 22:16:34 -0400",
       "minecraft:dark_forest": "2021-10-18 16:49:37 -0400",
       "minecraft:river": "2021-10-14 22:16:31 -0400",
@@ -1055,6 +1076,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-15 09:33:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-10-26 09:34:06 -0400"
     },
     "done": true
   },
@@ -1308,6 +1335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-10-26 09:34:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-10-14 22:57:01 -0400"
@@ -1347,6 +1380,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-10-14 21:56:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-10-26 08:45:11 -0400"
     },
     "done": true
   },
@@ -1494,14 +1533,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2021-10-26 09:31:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-10-14 22:18:27 -0400",
+      "chicken": "2021-10-26 09:25:35 -0400",
       "cooked_mutton": "2021-10-14 23:00:55 -0400",
       "cooked_beef": "2021-10-17 15:06:54 -0400",
       "beef": "2021-10-18 10:12:00 -0400",
       "porkchop": "2021-10-18 16:33:48 -0400",
       "bread": "2021-10-15 13:16:34 -0400",
+      "glow_berries": "2021-10-26 09:12:10 -0400",
       "golden_carrot": "2021-10-22 23:01:11 -0400",
       "cooked_chicken": "2021-10-14 22:07:29 -0400"
     },
@@ -2036,6 +2083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-10-26 09:31:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-10-15 10:27:09 -0400"
@@ -2303,6 +2356,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-10-14 22:25:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-10-26 11:13:50 -0400"
     },
     "done": true
   },
