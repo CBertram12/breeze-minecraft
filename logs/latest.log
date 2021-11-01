@@ -1,43 +1,74 @@
-[21:16:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:16:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:16:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:16:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:47] [main/INFO]: Reloading ResourceManager: Default
-[21:16:48] [Worker-Main-12/INFO]: Loaded 7 recipes
-[21:16:48] [Worker-Main-12/INFO]: Loaded 1137 advancements
-[21:16:50] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[21:16:50] [Server thread/INFO]: Loading properties
-[21:16:50] [Server thread/INFO]: Default game type: SURVIVAL
-[21:16:50] [Server thread/INFO]: Generating keypair
-[21:16:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:16:50] [Server thread/INFO]: Using default channel type
-[21:16:51] [Server thread/INFO]: Preparing level "world"
-[21:16:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:16:54] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:16:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:16:54] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:16:55] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:16:55] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[21:16:55] [Worker-Main-9/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-13/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-13/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-14/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-13/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-10/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-14/INFO]: Preparing spawn area: 6%
-[21:16:59] [Worker-Main-12/INFO]: Preparing spawn area: 46%
-[21:17:00] [Server thread/INFO]: Time elapsed: 6721 ms
-[21:17:00] [Server thread/INFO]: Done (8.236s)! For help, type "help"
-[21:20:58] [Server thread/INFO]: Stopping the server
-[21:20:58] [Server thread/INFO]: Stopping server
-[21:20:58] [Server thread/INFO]: Saving players
-[21:20:58] [Server thread/INFO]: Saving worlds
-[21:20:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:20:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:20:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:20:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:20:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:20:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:20:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:45:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:45:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:45:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:45:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:45:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:45:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:45:02] [main/INFO]: Reloading ResourceManager: Default
+[21:45:04] [Worker-Main-13/INFO]: Loaded 7 recipes
+[21:45:05] [Worker-Main-13/INFO]: Loaded 1137 advancements
+[21:45:07] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[21:45:07] [Server thread/INFO]: Loading properties
+[21:45:07] [Server thread/INFO]: Default game type: SURVIVAL
+[21:45:07] [Server thread/INFO]: Generating keypair
+[21:45:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:45:07] [Server thread/INFO]: Using default channel type
+[21:45:08] [Server thread/INFO]: Preparing level "world"
+[21:45:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:45:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:45:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:45:09] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:45:10] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:45:10] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[21:45:11] [Worker-Main-9/INFO]: Preparing spawn area: 8%
+[21:45:11] [Worker-Main-9/INFO]: Preparing spawn area: 12%
+[21:45:13] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[21:45:13] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[21:45:13] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[21:45:18] [Worker-Main-11/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-13/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-11/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-13/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-13/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-11/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[21:45:18] [Worker-Main-13/INFO]: Preparing spawn area: 37%
+[21:45:27] [Server thread/INFO]: Time elapsed: 18997 ms
+[21:45:27] [Server thread/INFO]: Done (19.309s)! For help, type "help"
+[21:45:48] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
+[21:45:49] [Server thread/INFO]: cambo9111[/127.0.0.1:64977] logged in with entity id 187 at (-67.65870693182754, 80.0, 680.1781441401145)
+[21:45:49] [Server thread/INFO]: cambo9111 joined the game
+[21:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2769ms or 55 ticks behind
+[21:55:44] [Server thread/INFO]: cambo9111 has reached the goal [Zombie Doctor]
+[21:56:33] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
+[21:56:42] [Server thread/INFO]: Villager bjr['Nitwit'/2304, l='ServerLevel[world]', x=11.45, y=87.54, z=696.78] died, message: 'Nitwit was slain by cambo9111'
+[21:57:03] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
+[21:57:38] [Server thread/INFO]: [cambo9111: Gave 1 [Red Bed] to cambo9111]
+[21:57:59] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
+[21:58:04] [Server thread/INFO]: Villager bjr['Villager'/2479, l='ServerLevel[world]', x=8.64, y=88.00, z=694.15] died, message: 'Villager was slain by cambo9111'
+[21:58:51] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
+[21:59:16] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
+[21:59:29] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
+[22:05:42] [Server thread/INFO]: [cambo9111: Gave 1 [Lectern] to cambo9111]
+[22:09:44] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
+[22:09:46] [Server thread/INFO]: Villager bjr['Librarian'/2707, l='ServerLevel[world]', x=11.30, y=87.13, z=699.17] died, message: 'Librarian was slain by cambo9111'
+[22:09:54] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
+[22:09:59] [Server thread/INFO]: Villager bjr['Villager'/4219, l='ServerLevel[world]', x=15.20, y=87.00, z=698.31] died, message: 'Villager was slain by cambo9111'
+[22:10:03] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
+[22:10:09] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
+[22:30:43] [Server thread/INFO]: cambo9111 has made the advancement [What a Deal!]
+[23:14:25] [Server thread/INFO]: [cambo9111: Saved the game]
+[23:33:28] [Server thread/INFO]: [cambo9111: Saved the game]
+[23:33:29] [Server thread/INFO]: [cambo9111: Stopping the server]
+[23:33:29] [Server thread/INFO]: Stopping server
+[23:33:29] [Server thread/INFO]: Saving players
+[23:33:29] [Server thread/INFO]: Saving worlds
+[23:33:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:33:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:33:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:33:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:33:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:33:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:33:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
