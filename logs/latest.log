@@ -1,123 +1,63 @@
-[08:05:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:05:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:05:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:05:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:05:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:05:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:05:35] [main/INFO]: Reloading ResourceManager: Default
-[08:05:37] [Worker-Main-12/INFO]: Loaded 7 recipes
-[08:05:38] [Worker-Main-12/INFO]: Loaded 1137 advancements
-[08:05:39] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[08:05:39] [Server thread/INFO]: Loading properties
-[08:05:39] [Server thread/INFO]: Default game type: SURVIVAL
-[08:05:39] [Server thread/INFO]: Generating keypair
-[08:05:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:05:39] [Server thread/INFO]: Using default channel type
-[08:05:41] [Server thread/INFO]: Preparing level "world"
-[08:05:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:05:42] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[08:05:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[08:05:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[08:05:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[08:05:43] [Worker-Main-13/INFO]: Preparing spawn area: 10%
-[08:05:43] [Worker-Main-12/INFO]: Preparing spawn area: 24%
-[08:05:44] [Worker-Main-13/INFO]: Preparing spawn area: 24%
-[08:05:48] [Worker-Main-8/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-11/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[08:05:48] [Worker-Main-10/INFO]: Preparing spawn area: 61%
-[08:05:54] [Server thread/INFO]: Time elapsed: 12783 ms
-[08:05:54] [Server thread/INFO]: Done (13.060s)! For help, type "help"
-[08:06:16] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
-[08:06:16] [Server thread/INFO]: cambo9111[/127.0.0.1:63661] logged in with entity id 187 at (-470.51253348622583, 70.9375, 788.8560764557792)
-[08:06:16] [Server thread/INFO]: cambo9111 joined the game
-[09:43:00] [Server thread/WARN]: Boat (vehicle of cambo9111) moved wrongly! 0.3234304862958197
-[09:43:00] [Server thread/WARN]: Boat (vehicle of cambo9111) moved wrongly! 0.28484488831327326
-[10:02:37] [Server thread/INFO]: Villager bjr['Villager'/36349, l='ServerLevel[world]', x=-2255.28, y=63.50, z=-1866.37] died, message: 'Villager suffocated in a wall'
-[10:02:41] [Server thread/INFO]: Villager bjr['Villager'/36441, l='ServerLevel[world]', x=-2285.37, y=63.50, z=-1866.72] died, message: 'Villager suffocated in a wall'
-[10:46:58] [Server thread/INFO]: [cambo9111: Saved the game]
-[10:52:32] [Server thread/INFO]: [cambo9111: Saved the game]
-[12:22:24] [Server thread/INFO]: [cambo9111: Saved the game]
-[14:24:58] [Server thread/INFO]: [cambo9111: Saved the game]
-[14:24:59] [Server thread/INFO]: cambo9111 lost connection: Disconnected
-[14:24:59] [Server thread/INFO]: cambo9111 left the game
-[14:25:35] [User Authenticator #2/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
-[14:25:36] [Server thread/INFO]: cambo9111[/127.0.0.1:53981] logged in with entity id 76862 at (-5.5, 87.5625, 696.5)
-[14:25:36] [Server thread/INFO]: cambo9111 joined the game
-[14:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[14:46:57] [Server thread/INFO]: cambo9111 has made the advancement [Hidden in the Depths]
-[15:37:03] [Server thread/INFO]: [cambo9111: Saved the game]
-[15:37:12] [Server thread/INFO]: [cambo9111: Saved the game]
-[16:06:33] [Server thread/INFO]: [cambo9111: Saved the game]
-[17:07:23] [Server thread/INFO]: [cambo9111: Saved the game]
-[17:23:58] [Server thread/INFO]: [cambo9111: Saved the game]
-[17:26:06] [Server thread/INFO]: [cambo9111: Saved the game]
-[17:35:48] [Server thread/INFO]: Villager bjr['Give Me Money'/95025, l='ServerLevel[world]', x=12.41, y=87.00, z=696.48] died, message: 'Give Me Money was slain by cambo9111'
-[17:35:48] [Server thread/INFO]: Named entity bjr['Give Me Money'/95025, l='ServerLevel[world]', x=12.41, y=87.00, z=696.48] died: Give Me Money was slain by cambo9111
-[17:35:53] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
-[17:36:08] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
-[17:37:00] [Server thread/INFO]: Villager bjr['Librarian'/117691, l='ServerLevel[world]', x=11.48, y=87.88, z=697.68] died, message: 'Librarian was slain by cambo9111'
-[17:37:24] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
-[17:39:26] [Server thread/INFO]: Villager bjr['Villager'/118242, l='ServerLevel[world]', x=11.44, y=87.56, z=701.13] died, message: 'Villager was slain by Zombie'
-[17:39:37] [Server thread/INFO]: Villager bjr['Villager'/118257, l='ServerLevel[world]', x=12.34, y=87.00, z=701.60] died, message: 'Villager was slain by Zombie'
-[17:39:44] [Server thread/INFO]: Villager bjr['Villager'/118272, l='ServerLevel[world]', x=11.35, y=87.56, z=700.39] died, message: 'Villager was slain by Zombie'
-[17:39:47] [Server thread/INFO]: Villager bjr['Villager'/118274, l='ServerLevel[world]', x=12.48, y=87.00, z=696.31] died, message: 'Villager was slain by Zombie'
-[17:39:48] [Server thread/INFO]: Villager bjr['Villager'/118259, l='ServerLevel[world]', x=12.81, y=87.00, z=700.38] died, message: 'Villager was slain by Zombie'
-[17:39:57] [Server thread/INFO]: Villager bjr['Villager'/118315, l='ServerLevel[world]', x=11.30, y=87.65, z=701.70] died, message: 'Villager was slain by Zombie'
-[17:40:00] [Server thread/INFO]: Villager bjr['Villager'/118316, l='ServerLevel[world]', x=12.30, y=87.00, z=696.40] died, message: 'Villager was slain by Zombie'
-[17:40:05] [Server thread/INFO]: Villager bjr['Villager'/118317, l='ServerLevel[world]', x=11.30, y=87.56, z=700.60] died, message: 'Villager was slain by Zombie'
-[17:40:06] [Server thread/INFO]: Villager bjr['Villager'/118337, l='ServerLevel[world]', x=11.30, y=87.56, z=701.70] died, message: 'Villager was slain by Zombie'
-[17:40:08] [Server thread/INFO]: Villager bjr['Villager'/118335, l='ServerLevel[world]', x=11.30, y=87.87, z=701.49] died, message: 'Villager was slain by Zombie'
-[17:40:17] [Server thread/INFO]: Villager bjr['Villager'/118328, l='ServerLevel[world]', x=11.73, y=87.00, z=697.97] died, message: 'Villager was slain by Zombie'
-[17:40:17] [Server thread/INFO]: Villager bjr['Villager'/118319, l='ServerLevel[world]', x=11.87, y=87.10, z=699.42] died, message: 'Villager was slain by Zombie'
-[17:40:26] [Server thread/INFO]: Villager bjr['Villager'/118377, l='ServerLevel[world]', x=12.23, y=87.56, z=699.73] died, message: 'Villager was slain by Zombie'
-[17:40:27] [Server thread/INFO]: Villager bjr['Villager'/118378, l='ServerLevel[world]', x=11.39, y=87.56, z=701.70] died, message: 'Villager was slain by Zombie'
-[17:40:35] [Server thread/INFO]: Villager bjr['Villager'/118387, l='ServerLevel[world]', x=12.50, y=87.80, z=700.36] died, message: 'Villager was slain by Zombie'
-[17:40:35] [Server thread/INFO]: Villager bjr['Villager'/118389, l='ServerLevel[world]', x=13.22, y=87.00, z=696.15] died, message: 'Villager was slain by Zombie'
-[17:40:39] [Server thread/INFO]: Villager bjr['Villager'/118396, l='ServerLevel[world]', x=11.15, y=87.56, z=701.85] died, message: 'Villager was slain by Zombie'
-[17:40:45] [Server thread/INFO]: Villager bjr['Villager'/118381, l='ServerLevel[world]', x=13.06, y=87.00, z=696.52] died, message: 'Villager was slain by Zombie'
-[17:40:48] [Server thread/INFO]: Villager bjr['Villager'/118428, l='ServerLevel[world]', x=11.32, y=87.56, z=700.22] died, message: 'Villager was slain by Zombie'
-[17:40:53] [Server thread/INFO]: Villager bjr['Villager'/118406, l='ServerLevel[world]', x=14.53, y=87.00, z=695.95] died, message: 'Villager was slain by cambo9111'
-[17:40:59] [Server thread/INFO]: Villager bjr['Villager'/118392, l='ServerLevel[world]', x=11.66, y=87.33, z=699.12] died, message: 'Villager was slain by Zombie'
-[17:41:00] [Server thread/INFO]: Villager bjr['Villager'/118443, l='ServerLevel[world]', x=12.41, y=87.09, z=698.71] died, message: 'Villager was slain by Zombie'
-[17:41:02] [Server thread/INFO]: Villager bjr['Villager'/118422, l='ServerLevel[world]', x=11.69, y=87.56, z=701.21] died, message: 'Villager was slain by Zombie'
-[17:41:09] [Server thread/INFO]: Villager bjr['Villager'/118384, l='ServerLevel[world]', x=12.31, y=87.00, z=696.41] died, message: 'Villager was slain by Zombie'
-[17:41:10] [Server thread/INFO]: Villager bjr['Villager'/118438, l='ServerLevel[world]', x=11.30, y=87.87, z=701.70] died, message: 'Villager was slain by Zombie'
-[17:41:14] [Server thread/INFO]: Villager bjr['Villager'/118448, l='ServerLevel[world]', x=11.78, y=87.00, z=699.37] died, message: 'Villager was slain by Zombie'
-[17:41:18] [Server thread/INFO]: Villager bjr['Villager'/118436, l='ServerLevel[world]', x=12.22, y=87.56, z=701.69] died, message: 'Villager was slain by Zombie'
-[17:41:19] [Server thread/INFO]: Villager bjr['Villager'/118416, l='ServerLevel[world]', x=11.94, y=87.56, z=701.52] died, message: 'Villager was slain by Zombie'
-[17:41:23] [Server thread/INFO]: Villager bjr['Villager'/118453, l='ServerLevel[world]', x=11.31, y=87.00, z=696.61] died, message: 'Villager was slain by Zombie'
-[17:41:31] [Server thread/INFO]: Villager bjr['Villager'/118397, l='ServerLevel[world]', x=12.85, y=87.00, z=696.35] died, message: 'Villager was slain by Zombie'
-[17:41:31] [Server thread/INFO]: Villager bjr['Villager'/118420, l='ServerLevel[world]', x=11.32, y=87.56, z=700.23] died, message: 'Villager was slain by Zombie'
-[17:41:33] [Server thread/INFO]: Villager bjr['Villager'/118399, l='ServerLevel[world]', x=12.57, y=87.00, z=696.79] died, message: 'Villager was slain by Zombie'
-[17:41:38] [Server thread/INFO]: Villager bjr['Villager'/118390, l='ServerLevel[world]', x=11.89, y=87.56, z=701.67] died, message: 'Villager was slain by Zombie'
-[17:41:40] [Server thread/INFO]: Villager bjr['Villager'/118409, l='ServerLevel[world]', x=13.22, y=87.00, z=701.85] died, message: 'Villager was slain by Zombie'
-[17:41:40] [Server thread/INFO]: Villager bjr['Villager'/118427, l='ServerLevel[world]', x=12.60, y=87.48, z=701.69] died, message: 'Villager was slain by Zombie'
-[17:41:47] [Server thread/INFO]: Villager bjr['Villager'/118426, l='ServerLevel[world]', x=11.30, y=87.56, z=701.50] died, message: 'Villager was slain by Zombie'
-[17:41:51] [Server thread/INFO]: Villager bjr['Villager'/118407, l='ServerLevel[world]', x=12.25, y=87.00, z=696.60] died, message: 'Villager was slain by Zombie'
-[17:41:55] [Server thread/INFO]: Villager bjr['Villager'/118435, l='ServerLevel[world]', x=13.13, y=87.00, z=701.67] died, message: 'Villager was slain by Zombie'
-[17:44:32] [Server thread/INFO]: [cambo9111: Summoned new Zombie Villager]
-[17:44:37] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
-[17:45:02] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
-[17:45:05] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
-[17:45:15] [Server thread/INFO]: [cambo9111: Gave 1 [Red Bed] to cambo9111]
-[17:46:56] [Server thread/INFO]: [cambo9111: Gave 1 [Lectern] to cambo9111]
-[17:59:43] [Server thread/INFO]: [cambo9111: Saved the game]
-[17:59:58] [Server thread/INFO]: [cambo9111: Stopping the server]
-[17:59:58] [Server thread/INFO]: Stopping server
-[17:59:58] [Server thread/INFO]: Saving players
-[17:59:58] [Server thread/INFO]: cambo9111 lost connection: Disconnected
-[17:59:58] [Server thread/INFO]: cambo9111 left the game
-[17:59:58] [Server thread/INFO]: Saving worlds
-[17:59:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:59:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:59:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:59:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:59:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:59:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:59:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:16:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:16:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:16:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:40] [main/INFO]: Reloading ResourceManager: Default
+[21:16:41] [Worker-Main-14/INFO]: Loaded 7 recipes
+[21:16:41] [Worker-Main-14/INFO]: Loaded 1137 advancements
+[21:16:42] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[21:16:42] [Server thread/INFO]: Loading properties
+[21:16:42] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:42] [Server thread/INFO]: Generating keypair
+[21:16:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:16:42] [Server thread/INFO]: Using default channel type
+[21:16:43] [Server thread/INFO]: Preparing level "world"
+[21:16:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:16:43] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:16:43] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:44] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:16:44] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[21:16:48] [Worker-Main-10/INFO]: Preparing spawn area: 32%
+[21:16:49] [Worker-Main-10/INFO]: Preparing spawn area: 91%
+[21:16:52] [Server thread/INFO]: Time elapsed: 9025 ms
+[21:16:52] [Server thread/INFO]: Done (9.103s)! For help, type "help"
+[21:21:57] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
+[21:21:58] [Server thread/INFO]: cambo9111[/127.0.0.1:56441] logged in with entity id 180 at (-3.534341037178979, 87.0, 693.3550392645543)
+[21:21:58] [Server thread/INFO]: cambo9111 joined the game
+[21:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[21:22:49] [User Authenticator #2/INFO]: UUID of player Murps is 883e2562-4a9f-47d3-9381-6fdb94168ded
+[21:22:49] [Server thread/INFO]: Murps[/70.191.219.223:51723] logged in with entity id 574 at (-4.5264915818440725, 87.0, 693.907871599304)
+[21:22:49] [Server thread/INFO]: Murps joined the game
+[21:23:15] [Server thread/INFO]: <Murps> *hasn't washed feet*
+[21:24:13] [Server thread/INFO]: <Murps> *poops*
+[21:25:50] [Server thread/INFO]: <Murps> *hobbles*
+[21:25:58] [Server thread/INFO]: <Murps> *looks like he is in pain*
+[21:38:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1084, y=16, z=723} gg{x=-1084, y=14, z=724}
+[21:38:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1084, y=16, z=723} gg{x=-1084, y=14, z=724}
+[21:38:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1084, y=16, z=723} gg{x=-1084, y=14, z=724}
+[21:39:09] [Server thread/INFO]: <cambo9111> \give me diamond 99999
+[21:56:59] [Server thread/INFO]: Murps has made the advancement [Diamonds!]
+[21:58:36] [Server thread/INFO]: <Murps> (:
+[21:58:39] [Server thread/INFO]: [cambo9111: Saved the game]
+[21:58:44] [Server thread/INFO]: [cambo9111: Stopping the server]
+[21:58:44] [Server thread/INFO]: Stopping server
+[21:58:44] [Server thread/INFO]: Saving players
+[21:58:44] [Server thread/INFO]: cambo9111 lost connection: Server closed
+[21:58:44] [Server thread/INFO]: cambo9111 left the game
+[21:58:44] [Server thread/INFO]: Saving worlds
+[21:58:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:58:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:58:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:58:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:58:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:58:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:58:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
