@@ -1,73 +1,73 @@
-[10:27:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:27:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:27:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:27:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:27:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:27:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:27:46] [main/INFO]: Reloading ResourceManager: Default
-[10:27:47] [Worker-Main-13/INFO]: Loaded 7 recipes
-[10:27:47] [Worker-Main-13/INFO]: Loaded 1137 advancements
-[10:27:48] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[10:27:48] [Server thread/INFO]: Loading properties
-[10:27:48] [Server thread/INFO]: Default game type: SURVIVAL
-[10:27:48] [Server thread/INFO]: Generating keypair
-[10:27:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:27:48] [Server thread/INFO]: Using default channel type
-[10:27:49] [Server thread/INFO]: Preparing level "world"
-[10:27:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:27:49] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[10:27:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[10:27:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:50] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[10:27:52] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
-[10:27:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[10:27:54] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[10:27:55] [Worker-Main-12/INFO]: Preparing spawn area: 10%
-[10:27:55] [Worker-Main-11/INFO]: Preparing spawn area: 97%
-[10:27:57] [Server thread/INFO]: Time elapsed: 8250 ms
-[10:27:57] [Server thread/INFO]: Done (8.338s)! For help, type "help"
-[10:27:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@73ef5e2c[id=9b9ed909-ebba-4fd3-ac89-bb5586b59712,name=cambo9111,properties={textures=[com.mojang.authlib.properties.Property@2ee0d7e8]},legacy=false] (/127.0.0.1:57101) lost connection: Disconnected
-[10:27:57] [User Authenticator #2/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
-[10:27:58] [Server thread/INFO]: cambo9111[/127.0.0.1:57109] logged in with entity id 154 at (-3.043694122286156, 87.0, 693.0023149859418)
-[10:27:58] [Server thread/INFO]: cambo9111 joined the game
-[10:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
-[10:40:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-121, y=54, z=-37} gg{x=-120, y=53, z=-37}
-[10:40:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-121, y=54, z=-37} gg{x=-120, y=53, z=-37}
-[10:40:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-121, y=54, z=-37} gg{x=-120, y=53, z=-37}
-[11:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=41, y=121, z=767} gg{x=41, y=122, z=767}
-[11:18:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=46, y=122, z=758} gg{x=47, y=123, z=767}
-[11:19:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=40, y=121, z=771} gg{x=46, y=122, z=770}
-[11:21:30] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=52, y=120, z=751} gg{x=50, y=122, z=752}
-[11:21:30] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=52, y=120, z=751} gg{x=50, y=122, z=752}
-[11:22:49] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=42, y=122, z=768} gg{x=41, y=122, z=767}
-[11:22:49] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=42, y=122, z=768} gg{x=40, y=122, z=767}
-[11:22:49] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=42, y=122, z=768} gg{x=40, y=122, z=767}
-[11:23:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=52, y=121, z=764} gg{x=44, y=122, z=764}
-[11:45:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-132, y=72, z=559} gg{x=42, y=122, z=759}
-[11:45:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-132, y=72, z=559} gg{x=42, y=122, z=759}
-[11:45:21] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-132, y=72, z=559} gg{x=42, y=122, z=759}
-[11:46:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=42, y=122, z=773} gg{x=41, y=122, z=773}
-[11:46:00] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=42, y=122, z=773} gg{x=41, y=122, z=773}
-[11:55:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=41, y=121, z=760} gg{x=42, y=122, z=760}
-[11:55:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=41, y=121, z=760} gg{x=42, y=122, z=760}
-[11:55:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=41, y=121, z=760} gg{x=42, y=122, z=760}
-[11:55:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=41, y=121, z=760} gg{x=42, y=122, z=760}
-[12:03:55] [Server thread/INFO]: [cambo9111: Set own game mode to Creative Mode]
-[12:11:38] [Server thread/INFO]: [cambo9111: Saved the game]
-[12:11:39] [Server thread/INFO]: [cambo9111: Stopping the server]
-[12:11:39] [Server thread/INFO]: Stopping server
-[12:11:39] [Server thread/INFO]: Saving players
-[12:11:39] [Server thread/INFO]: Saving worlds
-[12:11:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:11:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:11:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:57:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:57:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:53] [main/INFO]: Reloading ResourceManager: Default
+[15:57:53] [Worker-Main-11/INFO]: Loaded 7 recipes
+[15:57:54] [Worker-Main-11/INFO]: Loaded 1137 advancements
+[15:57:55] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:57:55] [Server thread/INFO]: Loading properties
+[15:57:55] [Server thread/INFO]: Default game type: SURVIVAL
+[15:57:55] [Server thread/INFO]: Generating keypair
+[15:57:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:57:55] [Server thread/INFO]: Using default channel type
+[15:57:56] [Server thread/INFO]: Preparing level "world"
+[15:57:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:57:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:57:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:57:57] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:57:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:57:58] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[15:57:59] [Worker-Main-13/INFO]: Preparing spawn area: 11%
+[15:57:59] [Worker-Main-13/INFO]: Preparing spawn area: 16%
+[15:57:59] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-12/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-12/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-12/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-12/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-12/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[15:58:04] [Worker-Main-11/INFO]: Preparing spawn area: 54%
+[15:58:07] [Server thread/INFO]: Time elapsed: 10782 ms
+[15:58:07] [Server thread/INFO]: Done (10.937s)! For help, type "help"
+[15:58:33] [User Authenticator #1/INFO]: UUID of player cambo9111 is 9b9ed909-ebba-4fd3-ac89-bb5586b59712
+[15:58:34] [Server thread/INFO]: cambo9111[/127.0.0.1:49466] logged in with entity id 181 at (-201.69999998807907, 13.200000047683716, -126.57296896402798)
+[15:58:34] [Server thread/INFO]: cambo9111 joined the game
+[15:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[16:03:38] [Server thread/INFO]: [cambo9111: Set own game mode to Survival Mode]
+[16:50:01] [Server thread/INFO]: [cambo9111: Gave 1 [Ice] to cambo9111]
+[16:55:09] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-135, y=72, z=557} gg{x=34, y=78, z=624}
+[17:32:08] [Server thread/INFO]: [cambo9111: Gave 1 [Red Bed] to cambo9111]
+[17:58:51] [Server thread/INFO]: [cambo9111: Gave 1 [Ice] to cambo9111]
+[17:59:27] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1604, y=64, z=-1637} gg{x=-1603, y=63, z=-1637}
+[17:59:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=64, z=-1641} gg{x=-1603, y=63, z=-1642}
+[17:59:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=64, z=-1641} gg{x=-1603, y=63, z=-1642}
+[17:59:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=64, z=-1641} gg{x=-1603, y=63, z=-1642}
+[17:59:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=64, z=-1641} gg{x=-1603, y=63, z=-1642}
+[17:59:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=64, z=-1641} gg{x=-1603, y=63, z=-1642}
+[17:59:41] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=64, z=-1641} gg{x=-1603, y=63, z=-1642}
+[17:59:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1602, y=63, z=-1645} gg{x=-1601, y=63, z=-1645}
+[18:00:11] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1590, y=66, z=-1643} gg{x=-1588, y=64, z=-1643}
+[18:00:11] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1590, y=66, z=-1643} gg{x=-1588, y=64, z=-1643}
+[18:00:11] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1590, y=66, z=-1643} gg{x=-1588, y=64, z=-1643}
+[18:00:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1582, y=66, z=-1638} gg{x=-1582, y=65, z=-1637}
+[18:00:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1581, y=65, z=-1638} gg{x=-1582, y=65, z=-1638}
+[18:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1581, y=67, z=-1637} gg{x=-1581, y=66, z=-1637}
+[18:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1581, y=67, z=-1637} gg{x=-1581, y=66, z=-1637}
+[18:02:08] [Server thread/INFO]: [cambo9111: Saved the game]
+[18:02:11] [Server thread/INFO]: [cambo9111: Stopping the server]
+[18:02:11] [Server thread/INFO]: Stopping server
+[18:02:11] [Server thread/INFO]: Saving players
+[18:02:11] [Server thread/INFO]: Saving worlds
+[18:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
