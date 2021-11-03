@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-11-03 18:13:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-10-17 15:05:02 -0400"
@@ -698,6 +704,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-10-14 22:00:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-11-03 18:13:56 -0400"
     },
     "done": true
   },
@@ -3146,6 +3158,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-10-14 22:25:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-11-03 18:13:56 -0400"
     },
     "done": true
   },
